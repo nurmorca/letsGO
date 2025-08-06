@@ -33,7 +33,7 @@ git clone https://github.com/nurmorca/letsGO.git
 cd letsGO
 ```
 
-2. set your docker container up as des
+2. set your docker container up as described above.
 
 3. run the application using
 ```bash
